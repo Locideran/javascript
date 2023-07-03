@@ -1,0 +1,9 @@
+Preciso estudar
+(HTML e CSS) - 4 Modulo de 5 
+functions
+objetos
+modularização
+RegEx
+JSON
+AJAX
+NodeJS
